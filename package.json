@@ -1,0 +1,14 @@
+{
+  "name": "amandaoliveira_web_e2e",
+  "version": "1.0.0",
+  "description": "Projeto de testes e2e para case técnico do processo seletivo Pipefy",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "author": "Amanda Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.0"
+  }
+}
